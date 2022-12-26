@@ -1,0 +1,17 @@
+.container {
+    position: fixed;
+    background-color: #f0f0f0;
+}
+
+
+.center {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.left {
+    top: 50%;
+    left: 0;
+    transform: translate(0, -50%);
+}
