@@ -39,7 +39,7 @@ export class Prodentifier {
     this.header = header;
   }
 
-  disclose() {
+  log() {
     console.groupCollapsed(...Object.values(this.header));
     const style = 'color: #3c3c3c; ';
     const keys = Object.keys(this.content);
