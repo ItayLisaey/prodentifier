@@ -1,8 +1,12 @@
 # Prodentifier
 
+![package size badge](https://img.shields.io/bundlephobia/min/prodentifier) ![npm version](https://img.shields.io/npm/v/prodentifier)
+
 This tiny library is a lightweight tool that aims to help developers easily track and debug build issues. It simply logs some basic build information, such as the version of the library and the environment it is running in, to help identify and resolve problems more efficiently. It is by no means a comprehensive solution, but it may serve as a useful starting point for debugging.
 
-_(it's a fancy console.log)_
+## _(it's a fancy console.log)_
+
+---
 
 ## Usage
 
